@@ -1,4 +1,7 @@
 # ComputerGraphicsOpenGL
+
+WRITE MORE HERE
+
 # How do I approach designing software?
 1. What new skills has your work on the project helped you to craft?
 
