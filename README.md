@@ -1,6 +1,16 @@
 # ComputerGraphicsOpenGL
 
-WRITE MORE HERE
+This project introduced me to OpenGL. Over a period of 7 weeks, I developed software to render a realistic, interactive, three-dimensional scene. The scene I recreated was modeled after a photo I took of four objects from my home. This photo is included below.
+
+<p align="center">
+<img width="460" height="400" src="https://user-images.githubusercontent.com/77023670/200704293-ce1cfaf7-3df5-49ec-bee9-c336ca98fe16.jpg">
+</p>
+
+The finished scene can be viewed below. This scene can be navigated using WASD, QE, and the mouse. WASD moves you forward, left, backward, and right respectively. QE raises and lowers your position in the scene. The mouse can be used to change the view orientation or increse navigation speed with the scroll wheel. 
+
+<p align="center">
+<img width="460" height="400" src="https://user-images.githubusercontent.com/77023670/200705880-59245191-a948-480c-abe8-356cd207a719.png">
+</p>
 
 # How do I approach designing software?
 1. What new skills has your work on the project helped you to craft?
