@@ -1,5 +1,5 @@
 # ComputerGraphicsOpenGL
-
+### Project Scenario and Development
 This project introduced me to OpenGL. Over a period of 7 weeks, I developed software to render a realistic, interactive, three-dimensional scene. The scene I recreated was modeled after a photo I took of four objects from my home. This photo is included below.
 
 <p align="center">
@@ -12,7 +12,7 @@ The finished scene can be viewed below. This scene can be navigated using WASD, 
 <img width="460" height="400" src="https://user-images.githubusercontent.com/77023670/200705880-59245191-a948-480c-abe8-356cd207a719.png">
 </p>
 
-# How do I approach designing software?
+### How do I approach designing software?
 1. What new skills has your work on the project helped you to craft?
 
 
@@ -28,7 +28,7 @@ Work on the project was done in a series of 7 milestone assignments, each consis
 
 The process of starting with somthing simple, and gradually adding to it can be applied in many other areas of my education/work. I have learned, from this class, the benefit of starting work on projects early so that I have plenty of time to reach out for help as needed.
 
-# How do I approach developing programs?
+### How do I approach developing programs?
 1. What new development strategies did you use while working on your 3D scene?
 
 More than any other projects I have worked on to date, this project relied heavily on trial and error. OpenGL prooved to be quite dificult and there were many times when I figured out "fixes" purely by trying different things until I got a result that was closer to the expected result. What I have taken from this is the ability to not be overwhelmed when code doesnt perform as expected. With time, trial and error, and help from others I can figure out solutions to the issues present in my code.
@@ -37,7 +37,7 @@ More than any other projects I have worked on to date, this project relied heavi
 
 There were many milestones that had a significant increase in difficulty from the previous week. This is to be expected, but the way in which I worked had to change as I progressed through the course to accomidate with the harder assignments.
 
-# How can computer science help me in reaching my goals?
+#### How can computer science help me in reaching my goals?
 1. How do computational graphics and visualizations give you new knwledge and skills that can be applied to your future educational pathway?
 
 After finishing this class, I can say that I enjoyed it. I have always been interested in 3D graphics, and I got alot of hands on experience with this from the class. I will take what I learned, and continue working with OpenGL and Blender. I am interested in game development and working with VR. 
