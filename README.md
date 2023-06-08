@@ -16,7 +16,7 @@ The finished scene can be viewed below. This scene can be navigated using WASD, 
 1. What new skills has your work on the project helped you to craft?
 
 
-This was my first experience working with OpenGL, so almost all the work I did on this project was a "new skill". I would say the biggest thing I have taken from this class is an understanding of how 3D objects are rendered, textured, and shaded. 
+This was my first experience working with OpenGL, so almost all the work I did on this project was a new skill. I would say the biggest thing I have taken from this class is an understanding of how 3D objects are rendered, textured, and shaded. 
 
 2. What design process did you follow for your project work?
 
@@ -31,7 +31,7 @@ The process of starting with somthing simple, and gradually adding to it can be 
 ### How do I approach developing programs?
 1. What new development strategies did you use while working on your 3D scene?
 
-More than any other projects I have worked on to date, this project relied heavily on trial and error. OpenGL prooved to be quite dificult and there were many times when I figured out "fixes" purely by trying different things until I got a result that was closer to the expected result. What I have taken from this is the ability to not be overwhelmed when code doesnt perform as expected. With time, trial and error, and help from others I can figure out solutions to the issues present in my code.
+More than any other projects I have worked on to date, this project relied heavily on trial and error. OpenGL prooved to be quite dificult and there were many times when I figured out fixes purely by trying different things until I got a result that was closer to the expected result. What I have taken from this is the ability to not be overwhelmed when code doesnt perform as expected. With time, trial and error, and help from others I can figure out solutions to the issues present in my code.
 
 2. How has your approach to developing code evolved throughout the milestones, which led you to the projects completion?
 
